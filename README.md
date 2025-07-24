@@ -10,7 +10,7 @@ Before you begin, ensure you have the following:
   - Deployment name  
   - Endpoint  
   - API key  
-  - [Documentation](https://ai.azure.com/explore/models)
+  - [Models](https://ai.azure.com/explore/models)
 - .NET SDK 8.0 or higher
 
 ## Getting Started
