@@ -1,0 +1,94 @@
+{
+  "reportId": "EXP-2025-07-001",
+  "employee": {
+    "name": "Sam Taylor",
+    "department": "Sales"
+  },
+  "submittedOn": "2025-07-12",
+  "tripDates": {
+    "start": "2025-07-08",
+    "end": "2025-07-10"
+  },
+  "businessPurpose": "Travel to meet with enterprise client for Q3 planning session",
+  "expenses": [
+    {
+      "date": "2025-07-08",
+      "category": "Lodging",
+      "description": "Hotel stay near client HQ",
+      "amount": 175.00,
+      "receiptId": "RCP-001"
+    },
+    {
+      "date": "2025-07-09",
+      "category": "Meals",
+      "description": "Client dinner at Olive Bistro",
+      "amount": 48.25,
+      "receiptId": "RCP-002"
+    },
+    {
+      "date": "2025-07-10",
+      "category": "Transportation",
+      "description": "Taxi to airport",
+      "amount": 36.50,
+      "receiptId": "RCP-003"
+    }
+  ],
+  "receipts": [
+    {
+      "id": "RCP-001",
+      "type": "Lodging",
+      "vendor": "Downtown Suites",
+      "amount": 145.00,
+      "lineItems": [
+        {
+          "description": "Room Charge",
+          "amount": 130.00
+        },
+        {
+          "description": "Taxes & Fees",
+          "amount": 15.00
+        }
+      ]
+    },
+    {
+      "id": "RCP-002",
+      "type": "Meal",
+      "vendor": "Olive Bistro",
+      "amount": 48.25,
+      "lineItems": [
+        {
+          "description": "Grilled Salmon",
+          "amount": 24.00
+        },
+        {
+          "description": "House Salad",
+          "amount": 10.00
+        },
+        {
+          "description": "Sparkling Water",
+          "amount": 4.25
+        },
+        {
+          "description": "Tip",
+          "amount": 10.00
+        }
+      ]
+    },
+    {
+      "id": "RCP-003",
+      "type": "Transportation",
+      "vendor": "City Taxi Co.",
+      "amount": 36.50,
+      "lineItems": [
+        {
+          "description": "Base Fare",
+          "amount": 30.00
+        },
+        {
+          "description": "Gratuity",
+          "amount": 6.50
+        }
+      ]
+    }
+  ]
+}

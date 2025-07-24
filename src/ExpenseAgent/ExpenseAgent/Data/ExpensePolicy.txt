@@ -1,0 +1,35 @@
+﻿1. Purpose
+
+This policy defines the rules for submitting and approving business expense reports.
+
+2. Allowed Expense Categories
+
+	- Meals: Up to $50 per day per person
+
+	- Lodging: Up to $150 per night
+
+	- Transportation: Economy airfare, rental cars (compact only), ride-shares, taxis
+
+	- Office Supplies: Up to $100 per trip
+
+	- Internet & Communication: Reimbursement allowed if used for business purposes
+
+3. Receipt Requirements
+
+	- All expenses must include an itemized receipt
+
+4. Submission Rules
+
+	- Submit within 10 days of trip or expense
+
+	- Include: employee name, date of expense, category, description, amount, and receipts
+
+5. Approval Criteria
+
+	- The expense must match an allowed category
+
+	- The amount must be within the allowed limit
+
+	- Receipts must be included
+
+	- The expense must have a clear business purpose

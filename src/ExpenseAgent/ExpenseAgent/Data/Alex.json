@@ -1,0 +1,121 @@
+{
+  "reportId": "EXP-2025-07-002",
+  "employee": {
+    "name": "Alex Morgan",
+    "department": "Marketing"
+  },
+  "submittedOn": "2025-07-22",
+  "tripDates": {
+    "start": "2025-07-20",
+    "end": "2025-07-21"
+  },
+  "businessPurpose": "Attend and present at annual industry conference",
+  "expenses": [
+    {
+      "date": "2025-07-20",
+      "category": "Meals",
+      "description": "Lunch with vendor during conference",
+      "amount": 42.00,
+      "receiptId": "RCP-004"
+    },
+    {
+      "date": "2025-07-20",
+      "category": "Office Supplies",
+      "description": "Notebooks and pens for workshop",
+      "amount": 28.75,
+      "receiptId": "RCP-005"
+    },
+    {
+      "date": "2025-07-21",
+      "category": "Internet & Communication",
+      "description": "Wi-Fi access at hotel for presentation uploads",
+      "amount": 12.99,
+      "receiptId": "RCP-006"
+    },
+    {
+      "date": "2025-07-21",
+      "category": "Transportation",
+      "description": "Ride-share to conference venue",
+      "amount": 18.00,
+      "receiptId": "RCP-007"
+    }
+  ],
+  "receipts": [
+    {
+      "id": "RCP-004",
+      "type": "Meal",
+      "vendor": "The Grill House",
+      "amount": 42.00,
+      "lineItems": [
+        {
+          "description": "Turkey Club Sandwich",
+          "amount": 15.00
+        },
+        {
+          "description": "Iced Tea",
+          "amount": 3.00
+        },
+        {
+          "description": "Tax",
+          "amount": 2.00
+        },
+        {
+          "description": "Tip",
+          "amount": 7.00
+        },
+        {
+          "description": "Guest Entree",
+          "amount": 15.00
+        }
+      ]
+    },
+    {
+      "id": "RCP-005",
+      "type": "Office Supplies",
+      "vendor": "Staples",
+      "amount": 28.75,
+      "lineItems": [
+        {
+          "description": "Notebook (3-pack)",
+          "amount": 12.50
+        },
+        {
+          "description": "Gel Pens (5-pack)",
+          "amount": 9.25
+        },
+        {
+          "description": "Tax",
+          "amount": 7.00
+        }
+      ]
+    },
+    {
+      "id": "RCP-006",
+      "type": "Internet & Communication",
+      "vendor": "Grand Hotel WiFi",
+      "amount": 12.99,
+      "lineItems": [
+        {
+          "description": "Daily WiFi Access",
+          "amount": 12.99
+        }
+      ]
+    },
+    {
+      "id": "RCP-007",
+      "type": "Transportation",
+      "vendor": "Lyft",
+      "amount": 18.00,
+      "lineItems": [
+        {
+          "description": "Ride fare",
+          "amount": 15.00
+        },
+        {
+          "description": "Tip",
+          "amount": 3.00
+        }
+      ]
+    }
+  ]
+}
